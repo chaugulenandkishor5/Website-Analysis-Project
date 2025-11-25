@@ -1,4 +1,4 @@
-# Worked on following Problem
+# Worked on following Insight
 
 1) What patterns or trends can you observe in website sessions and users over
 time?
